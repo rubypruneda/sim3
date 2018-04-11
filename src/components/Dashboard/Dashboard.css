@@ -1,0 +1,33 @@
+.sideNav {
+    display: inline-block;
+    background-image: linear-gradient(0deg, #ff70a6, #ff70a6 40%, #ff9770 62%, #ff9770);    
+    height: 100vh;
+    width: 90px;
+    background-color: skyblue;
+    float: left;
+    text-align: center;
+    box-shadow: -19px 0px 10px 30px rgba(0, 0, 0, 0.1), 0 6px 6px 0 rgba(0, 0, 0, 0.2);
+    padding-top: 10px;
+    
+}
+
+img {
+    height: 47px;
+    width: 47px;
+}
+
+.helloDash {
+    float: left;
+}
+
+.houseBtn {
+    padding-top: 35px;
+}
+
+.newBtn {
+    padding-top: 25px;
+}
+
+.powerBtn {
+    padding-top: 580px;
+}
